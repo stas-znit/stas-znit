@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working on learning DevOps practices, tools, programming languages, and more
 - 🤔 I am looking for help in learning the python programming language
-- 📫 How to reach me: telegram @sso_zenit
+- 📫 How to reach me: telegram @vivaldi545
 
 <p>
 
